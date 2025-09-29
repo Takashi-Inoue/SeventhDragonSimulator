@@ -1,9 +1,9 @@
 # 7th Dragon (DS) Skill Simulator
 
-Requirement:\
-https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
-
 ## EN
+
+Requirement: [vc_redist.x64](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+
 ![ss_en](https://github.com/user-attachments/assets/42b85db3-06fe-4e08-9d0c-56835497324d)
 
 ![ss_description_en](https://github.com/user-attachments/assets/b3889a9c-bc7f-41d2-931c-73b8b139ef2c)
@@ -13,6 +13,8 @@ Skill descriptions and character images are taken from [7th Dragon Wiki on Fando
 
 ## JP
 初代セブンスドラゴンのスキルシミュレータです。
+
+要: [vc_redist.x64](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
 ![ss_jp](https://github.com/user-attachments/assets/6c7d3332-97cb-43ae-a970-e85559a37637)
 
