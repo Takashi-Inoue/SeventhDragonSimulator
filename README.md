@@ -18,5 +18,5 @@ Skill descriptions and character images are taken from [7th Dragon Wiki on Fando
 
 ![ss_description_jp](https://github.com/user-attachments/assets/673f946a-b082-4df7-86f9-9c1e5a51a6b5)
 
-スキルの説明とキャラクター画像は [7th Dragon Wiki on Fandom](https://seventhdragon.fandom.com/wiki/7th_Dragon_(Game)) より [CC-BY-SA](https://www.fandom.com/licensing) License に基づき\
+スキルの説明とキャラクター画像は [7th Dragon Wiki on Fandom](https://seventhdragon.fandom.com/wiki/7th_Dragon_(Game)) より [CC-BY-SA](https://www.fandom.com/licensing) に基づき\
 また、一部の日本語部分に関しては[セブンスドラゴン@wiki](https://w.atwiki.jp/7thdragon/) から [アットウィキ利用規約](https://atwiki.jp/tos)第8条に基づき引用しています。
