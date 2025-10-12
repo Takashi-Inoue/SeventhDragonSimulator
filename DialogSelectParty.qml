@@ -32,8 +32,13 @@ Dialog {
             radius: 4
         }
 
-        onCheckedChanged: root.standardButton(Dialog.Ok).enabled
-                          = checked || partyListView.currentIndex != -1
+        onCheckedChanged: {
+            root.selectedParty = (checked || partyListView.currentIndex == -1) ?
+                        null : root.partyList.parties[partyListView.currentIndex];
+
+            root.standardButton(Dialog.Ok).enabled
+                          = checked || partyListView.currentIndex != -1;
+        }
     }
 
     Frame {
